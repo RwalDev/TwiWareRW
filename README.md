@@ -1,30 +1,19 @@
-# TwiWare (Come Back Coming Soon)
-TwiWare, is a Roblox CheatWare, That Can Help You Cheat On Roblox By Using Script! 129+ Features And More
-Developing 2.0.3 Is Comin Soon
-
+# TwiWare Rewrite V2
 #### **Script Information**
-- **Script Is Keyless**
-- **Also Free Not Need Any Money**
+- **The Script Is Completely Free!**
+- **Not Open Source but also keyless**
+- **Status: 🔴**
 
-#### Script Use Now!!!
+#### Loadstring:
 ```lua
-getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Loader.lua";
+getgenv().TwiWare = "nah.luau";
     pcall(function()
         loadstring(game:HttpGet(getgenv().TwiWare))();
     end)
 ```
 #### Supported
-- **[Bladeball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball) Status: Patched (discontinued)**
-- **[Better Music?](https://www.roblox.com/games/18999776880/Better-Music) Status: Working**
-- **[The Strongest battlegrounds](https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds) Status: Discontinued or i be think about it**
-
+- **[Bladeball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball) Status: Patched**
+- **[The Strongest battlegrounds](https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds) Status: Patched**
 #### More
 * **[Latest Updates](https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/Updates)**
 * **[Licence](https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/LICENSE)**
-
-#### Credits 
-- **TwiRwal - Owner & Scripter**
-- **SumitScripts - Scripter/Helper/Tester**
-- **Guis By REDzHUB**
-
-(IF YOU GET BAN THATS NOT OUR RESPONSIVE FOR THAT)
