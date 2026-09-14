@@ -10,10 +10,6 @@
 </div>
 
 ---
-
-> <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/history.svg" width="16" height="16" alt="history" /> This file mirrors the commit history from [TwiWareRW commits on GitHub](https://github.com/RwalDev/TwiWareRW/commits/main). Newest first.
-
-
 ## <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/tag.svg" width="18" height="18" alt="tag" /> Legend
 
 | Icon | Meaning |
