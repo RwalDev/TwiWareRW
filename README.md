@@ -44,5 +44,6 @@ getgenv().TwiWare = "https://raw.githubusercontent.com/RwalDev/TwiWareRW/main/Re
 | --- | --- |
 | none
 
-—
-Made With VSC, By @RwalDev. 2023-2026
+---
+- Made With VSC, By @RwalDev. 2023-2026
+- ScriptBlox: ScriptBlox.com/u/Rwal
