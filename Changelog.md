@@ -3,10 +3,7 @@
 <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/scroll-text.svg" width="48" height="48" alt="scroll-text" />
 
 # TwiWareRW — Changelog
-
-**Complete commit history — newest first.**
-
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/git-branch.svg" width="16" height="16" alt="git-branch" /> Branch: **main** &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/hash.svg" width="16" height="16" alt="hash" /> **94 commits** &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Last synced: **14-09-2026**
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/calendar-days.svg" width="16" height="16" alt="calendar-days" /> Last synced: **14-09-2026**
 
 [![Commits](https://img.shields.io/badge/commits-94-blue)](https://github.com/RwalDev/TwiWareRW/commits/main) [![Branch](https://img.shields.io/badge/branch-main-green)](https://github.com/RwalDev/TwiWareRW/tree/main) [![History](https://img.shields.io/badge/history-full-orange)](https://github.com/RwalDev/TwiWareRW/commits/main)
 
