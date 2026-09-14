@@ -43,5 +43,6 @@ getgenv().TwiWare = "https://raw.githubusercontent.com/RwalDev/TwiWareRW/main/Re
 | <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/gamepad-2.svg" width="16" height="16" alt="game" /> Game | <img src="https://cdn.jsdelivr.net/npm/lucide-static@1.43.0/icons/activity.svg" width="16" height="16" alt="status" /> Status |
 | --- | --- |
 | none
+
 —
 Made With VSC, By @RwalDev. 2023-2026
